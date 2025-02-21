@@ -1,6 +1,6 @@
 nc: 1
 names:
 - car
-train: 'yolo-data/train/images'
-val: 'yolo-data/val/images'
+train: 'yolo-data/train/images/'
+val: 'yolo-data/val/images/'
 # test: ''
